@@ -6,3 +6,11 @@
 .paragraph {
     color: chartreuse;
 }
+
+#heading {
+    color: crimson;
+}
+
+#paragraph {
+    color: indigo;
+}
